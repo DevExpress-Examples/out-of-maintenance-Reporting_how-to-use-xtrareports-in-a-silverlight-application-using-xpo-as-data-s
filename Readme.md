@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ReportService.svc.cs](./CS/Q279518.Web/ReportService.svc.cs) (VB: [ReportService.svc.vb](./VB/Q279518.Web/ReportService.svc.vb))
+* [Silverlight.js](./CS/Q279518.Web/Silverlight.js) (VB: [Silverlight.js](./VB/Q279518.Web/Silverlight.js))
+* [SuppliersReport.cs](./CS/Q279518.Web/SuppliersReport.cs) (VB: [SuppliersReport.vb](./VB/Q279518.Web/SuppliersReport.vb))
+* [Web.config](./CS/Q279518.Web/Web.config) (VB: [Web.config](./VB/Q279518.Web/Web.config))
+* [MainPage.xaml](./CS/Q279518/MainPage.xaml) (VB: [MainPage.xaml](./VB/Q279518/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Q279518/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Q279518/MainPage.xaml))
+<!-- default file list end -->
 # How to use XtraReports in a Silverlight application using XPO as data source
 
 
