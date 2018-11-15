@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [IReportService.cs](./CS/Q279518.Web/IReportService.cs) (VB: [IReportService.vb](./VB/Q279518.Web/IReportService.vb))
+* [Northwind.cs](./CS/Q279518.Web/Northwind.cs) (VB: [Northwind.vb](./VB/Q279518.Web/Northwind.vb))
+* [Q279518TestPage.aspx](./CS/Q279518.Web/Q279518TestPage.aspx) (VB: [Q279518TestPage.aspx](./VB/Q279518.Web/Q279518TestPage.aspx))
+* [ReportService.svc.cs](./CS/Q279518.Web/ReportService.svc.cs) (VB: [ReportService.svc.vb](./VB/Q279518.Web/ReportService.svc.vb))
+* [SuppliersReport.cs](./CS/Q279518.Web/SuppliersReport.cs) (VB: [SuppliersReport.vb](./VB/Q279518.Web/SuppliersReport.vb))
+* [XpoHelper.cs](./CS/Q279518.Web/XpoHelper.cs) (VB: [XpoHelper.vb](./VB/Q279518.Web/XpoHelper.vb))
+* [MainPage.xaml](./CS/Q279518/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/Q279518/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/Q279518/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Q279518/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to use XtraReports in a Silverlight application using XPO as data source
 
 
