@@ -6,7 +6,7 @@
 * [SuppliersReport.cs](./CS/Q279518.Web/SuppliersReport.cs) (VB: [SuppliersReport.vb](./VB/Q279518.Web/SuppliersReport.vb))
 * [Web.config](./CS/Q279518.Web/Web.config) (VB: [Web.config](./VB/Q279518.Web/Web.config))
 * [MainPage.xaml](./CS/Q279518/MainPage.xaml) (VB: [MainPage.xaml](./VB/Q279518/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/Q279518/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/Q279518/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/Q279518/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/Q279518/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to use XtraReports in a Silverlight application using XPO as data source
 
